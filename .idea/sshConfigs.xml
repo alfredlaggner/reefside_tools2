@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="24.199.118.241" id="d8fd2f79-a263-4fea-9c54-a82bd2c91582" keyPath="C:\Users\alfre\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="forge" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdc64e65-8795-4663-8946-7329887b390a" name="reefside_tools2">
+        <fileTransfer rootFolder="/var/www/reefside_tools" accessType="SFTP" host="137.184.232.163" port="22" sshConfigId="01a6754a-2f12-403c-807a-5804fb80f33e" sshConfig="root@137.184.232.163:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
